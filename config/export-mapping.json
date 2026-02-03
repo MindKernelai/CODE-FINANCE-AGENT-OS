@@ -1,0 +1,12 @@
+{
+  "default": {
+    "Vận hành": {
+      "MB Bank": "641",
+      "Ví vận hành": "111"
+    },
+    "Marketing": {
+      "Shopee Pay": "642",
+      "Ví marketing": "112"
+    }
+  }
+}
